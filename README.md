@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Kurto</h1>
 <h3 align="center">A full-stack Software Developer at Purdue University</h3>
 
-- 🔭 I’m currently working on [X Parks the Spot (IOS Only PWA)](https://xpark-staging.ersei.net/login)
+- 🔭 I’m currently working on [X Parks the Spot (IOS Only PWA)](https://xpark-staging.ersei.net/login) to try it out, open on an IOS device and click share -> add to home screen. The app will then be accessible from there.
 
 - 🌱 I’m currently learning **golang**
 
